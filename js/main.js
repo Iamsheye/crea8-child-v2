@@ -67,25 +67,61 @@ const baby5 = document.querySelector('.baby-5');
 const baby6 = document.querySelector('.baby-6');
 
 baby1.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-1.png";
+  baby1.classList.add('border');
+  baby2.classList.remove('border');
+  baby3.classList.remove('border');
+  baby4.classList.remove('border');
+  baby5.classList.remove('border');
+  baby6.classList.remove('border');
 })
 
 baby2.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-2.png";
+  baby2.classList.add('border');
+  baby1.classList.remove('border');
+  baby3.classList.remove('border');
+  baby4.classList.remove('border');
+  baby5.classList.remove('border');
+  baby6.classList.remove('border');
 })
 
 baby3.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-3.png";
+  baby3.classList.add('border');
+  baby2.classList.remove('border');
+  baby1.classList.remove('border');
+  baby4.classList.remove('border');
+  baby5.classList.remove('border');
+  baby6.classList.remove('border');
 })
 
 baby4.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-4.png";
+  baby4.classList.add('border');
+  baby2.classList.remove('border');
+  baby3.classList.remove('border');
+  baby1.classList.remove('border');
+  baby5.classList.remove('border');
+  baby6.classList.remove('border');
 })
 
 baby5.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-5.png";
+  baby5.classList.add('border');
+  baby2.classList.remove('border');
+  baby3.classList.remove('border');
+  baby4.classList.remove('border');
+  baby1.classList.remove('border');
+  baby6.classList.remove('border');
 })
 
 baby6.addEventListener('click', () => {
-  topbaby
+  topbaby.src = "png/baby-6.png";
+  baby6.classList.add('border');
+  baby2.classList.remove('border');
+  baby3.classList.remove('border');
+  baby4.classList.remove('border');
+  baby5.classList.remove('border');
+  baby1.classList.remove('border');
 })

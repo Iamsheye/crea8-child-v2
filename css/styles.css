@@ -104,13 +104,28 @@ body {
 .box {
   width: 28.472w;
   height: 31.667vw;
-  background-color: rgba(0, 0, 0, 0.75);
+  /* background-color: rgba(0, 0, 0, 0.75); */
 }
 
 .t-box {
   background-color: rgba(0, 0, 0, 0.75);
   width: 4vw;
   height: 3.472vw;
+}
+
+.topbaby {
+  width: 28.472w;
+  height: 31.667vw;
+  margin-left: 18%;
+}
+
+.babysall {
+  width: 4vw;
+  height: 3.472vw;
+}
+
+.border {
+  border: 1px solid #2f3c57 !important;
 }
 
 .bg-fc {

@@ -80,27 +80,27 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 
         <div>
           <div class="box">
-            <img src="" alt="" class="topbaby">
+            <img src="png/baby-1.png" alt="" class="topbaby">
           </div>
 
           <div class="d-flex justify-content-between mt-3">
             <div class="t-box mr-2 baby-1">
-              <img src="" alt="" class="babys">
+              <img src="png/baby-1.png" alt="" class="babys babysall">
             </div>
             <div class="t-box mr-2 baby-2">
-              <img src="" alt="" class="babys-2">
+              <img src="png/baby-2.png" alt="" class="babys-2 babysall">
             </div>
             <div class="t-box mr-2 baby-3">
-              <img src="" alt="" class="babys-3">
+              <img src="png/baby-3.png" alt="" class="babys-3 babysall">
             </div>
             <div class="t-box mr-2 baby-4">
-              <img src="" alt=""  class="babys-4">
+              <img src="png/baby-4.png" alt=""  class="babys-4 babysall">
             </div>
             <div class="t-box mr-2 baby-5">
-              <img src="" alt="" class="babys-5">
+              <img src="png/baby-5.png" alt="" class="babys-5 babysall">
             </div>
             <div class="t-box baby-6">
-              <img src="" alt="" class="babys-6">
+              <img src="png/baby-6.png" alt="" class="babys-6 babysall">
             </div>
           </div>
         </div>
