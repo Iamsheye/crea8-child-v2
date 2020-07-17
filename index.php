@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
           </div>
           <div class="mr">
             <div class="">
-              <img src="svg\con.svg" alt="" class="con ml" />
+              <img src="svg\conn.svg" alt="" class="con ml" />
             </div>
             <p class="works-title">Connect to your lab</p>
             <p class="works-body">
