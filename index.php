@@ -1,9 +1,9 @@
 <?php 
 
 $servername = "x40p5pp7n9rowyv6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$username = "snpo2g0p2ngjlmbs";
-$password = "wx0zgk8wd2tq0p0o";
-$database = "rs732wrr0jhwthb9";
+$username = "syfhrnezsp0efcph";
+$password = "gux3sbt4j8ds36k1";
+$database = "wjagnsxe5tm2pena";
 
 $email="";
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
