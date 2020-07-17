@@ -121,7 +121,7 @@ body {
 
 .babysall {
   width: 4vw;
-  height: 3.472vw;
+  height: 6vw;
 }
 
 .border {
@@ -233,4 +233,11 @@ footer {
   color: #ffffff;
   opacity: 0.4;
   text-align: center;
+}
+
+@media (max-width:768px) {
+  .works-body {
+    font-size: 1.5vw;
+    line-height: 2.25vw;
+  }
 }

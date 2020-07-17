@@ -189,7 +189,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
       </div>
 
       <div class="pb-5">
-        <p class="foot-text">© 2020 Crea8 Child - All rights reserved.</p>
+        <p class="foot-text pt-3">© 2020 Crea8 Child - All rights reserved.</p>
       </div>
     </footer>
 
