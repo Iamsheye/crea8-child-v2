@@ -78,8 +78,31 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
           <img src="svg/stroller.svg" alt="" class="stroll" />
         </div>
 
-        <div class="box">
+        <div>
+          <div class="box">
+            <img src="" alt="" class="topbaby">
+          </div>
 
+          <div class="d-flex justify-content-between mt-3">
+            <div class="t-box mr-2 baby-1">
+              <img src="" alt="" class="babys">
+            </div>
+            <div class="t-box mr-2 baby-2">
+              <img src="" alt="" class="babys-2">
+            </div>
+            <div class="t-box mr-2 baby-3">
+              <img src="" alt="" class="babys-3">
+            </div>
+            <div class="t-box mr-2 baby-4">
+              <img src="" alt=""  class="babys-4">
+            </div>
+            <div class="t-box mr-2 baby-5">
+              <img src="" alt="" class="babys-5">
+            </div>
+            <div class="t-box baby-6">
+              <img src="" alt="" class="babys-6">
+            </div>
+          </div>
         </div>
       </div>
     </div>

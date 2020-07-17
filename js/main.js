@@ -19,7 +19,7 @@ gsap.from(".stroll", {
 const tl = gsap.timeline({ repeat: -1, delay: 1.125 });
 tl.to(".stroll", {
   duration: 3,
-  x: "48vw",
+  x: "38vw",
   ease: "slow",
 });
 tl.to(".stroll", {
@@ -57,3 +57,35 @@ pl.to(".ppl", {
   rotation: 0,
   ease: "slow"
 });
+
+const topbaby = document.querySelector('.topbaby');
+const baby1 = document.querySelector('.baby-1');
+const baby2 = document.querySelector('.baby-2');
+const baby3 = document.querySelector('.baby-3');
+const baby4 = document.querySelector('.baby-4');
+const baby5 = document.querySelector('.baby-5');
+const baby6 = document.querySelector('.baby-6');
+
+baby1.addEventListener('click', () => {
+  topbaby
+})
+
+baby2.addEventListener('click', () => {
+  topbaby
+})
+
+baby3.addEventListener('click', () => {
+  topbaby
+})
+
+baby4.addEventListener('click', () => {
+  topbaby
+})
+
+baby5.addEventListener('click', () => {
+  topbaby
+})
+
+baby6.addEventListener('click', () => {
+  topbaby
+})
